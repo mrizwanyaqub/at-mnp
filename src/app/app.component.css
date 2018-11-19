@@ -1,0 +1,18 @@
+.logo {
+  content: url("/assets/imgs/mnp.svg");
+  width: 20%;
+  max-width: 300px;
+  min-width: 70px;
+  max-height: 120px;
+}
+
+.content {
+  width: 1100px;
+}
+
+.sideBar {
+  width: 15% !important;
+  min-width: 135px;
+  max-width: 135px;
+  margin-top: 20px;
+}
