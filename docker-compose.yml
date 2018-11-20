@@ -1,0 +1,4 @@
+app:
+  image: mrizwanyaqub/at-mnp
+  ports:
+    - 3002:4200
