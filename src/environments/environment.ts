@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
+  production: true,
 /*  name: 'ounass',
   cdnUrl: 'https://ounass-prod3.atgcdn.ae/small_light(p=listing1x,of=webp,q=90)/pub/media/catalog/product',*/
   name: 'mnp',
